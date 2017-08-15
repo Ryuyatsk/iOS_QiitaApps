@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.54.11 clang-900.0.31)"
+options: "664d6c999f794ef1cc8992f560717760"
+build_time: [1502781530, 875438000]
+inputs:
+  "/Users/ryuya/Documents/QiitaApps/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1502781514, 0]

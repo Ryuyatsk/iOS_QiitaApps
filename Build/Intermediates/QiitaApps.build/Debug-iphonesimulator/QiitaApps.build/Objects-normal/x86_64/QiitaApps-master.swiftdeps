@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.54.11 clang-900.0.31)"
+options: "a1ff5f044f6b0505501b235317955663"
+build_time: [1502786656, 442033000]
+inputs:
+  "/Users/ryuya/Documents/QiitaApps/QiitaApps/ViewController.swift": [1502786656, 0]
+  "/Users/ryuya/Documents/QiitaApps/QiitaApps/AppDelegate.swift": [1502785665, 0]
